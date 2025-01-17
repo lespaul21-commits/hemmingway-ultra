@@ -74,7 +74,8 @@ main {
     align-items: center;
     height: 30rem;
     bottom: 4rem;
-    font-family: "Playfair Display";
+    font-family: "Arsenal SC";
+    font-size: 1.175rem;
 }
 
 #background {
@@ -123,6 +124,6 @@ main #quote {
     align-items: center;
     justify-content: center;
     gap: 7px;
-    font-family: "Playfair Display";
+    font-family: "Arsenal SC";
 }
 
