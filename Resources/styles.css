@@ -24,7 +24,7 @@ nav {
     margin: 0.475rem 0;
 }
 
-.redlinerule {
+.graylinerule {
     position: relative;
     z-index: 10;
     width: 80%;
